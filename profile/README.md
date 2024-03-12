@@ -7,6 +7,7 @@ Contribution Guidelines can be found on the Countribution Guides Channel on the 
 [Issues List](https://github.com/orgs/BroncoDirectMe/projects/17/views/1) <br>
 [Frontend Installation Guide](https://github.com/BroncoDirectMe/Frontend/wiki) <br>
 [Backend Installation Guide](https://github.com/BroncoDirectMe/Backend/wiki) <br>
+[How to Fork]([url](https://github.com/BroncoDirectMe/.github/wiki/How-to-Fork)) <br>
 
 ## Maintainers
 Maintainers can be mentioned through `@Maintainers` in Pull Requests. However, we respond best through Discord. Just mention the Maintainers role and we'll get to you shortly.
